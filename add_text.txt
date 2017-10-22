@@ -1,0 +1,3 @@
+add_text yoshida-cat
+
+add_text2 yoshida-cat
